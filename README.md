@@ -6,6 +6,17 @@ This project demonstrates production-level techniques using [LlamaIndex](https:/
 
 ---
 
+### 📜 Course Completion
+
+I successfully completed the **"Production-Ready Retrieval-Augmented Generation"** course by [DeepLearning.AI](https://www.deeplearning.ai/) on their GenAI learning path.
+
+🏅 [View Certificate](https://learn.deeplearning.ai/accomplishments/14d5cf63-385c-49c9-bf7f-44f7fb5ee680?usp=sharing)
+
+---
+
+### Demo
+
+
 ## 📦 Setup
 
 First, install dependencies and load your `.env` file:
