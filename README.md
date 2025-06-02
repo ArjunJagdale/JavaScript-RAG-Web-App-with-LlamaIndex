@@ -6,6 +6,25 @@ This project demonstrates production-level techniques using [LlamaIndex](https:/
 
 ---
 
+### 🧩 How RAG Works Here
+Retrieval:
+
+Documents are embedded and stored as a vector index using VectorStoreIndex.
+
+When a user query is received, relevant document chunks are fetched based on semantic similarity (Top K).
+
+Augmentation:
+
+Retrieved text is injected into the prompt context and passed to the LLM.
+
+Generation:
+
+The LLM (powered by LlamaIndex’s default backend) generates responses conditioned on both the query and retrieved documents.
+
+Chat Engine:
+
+For contextual conversations, ContextChatEngine maintains message history and uses the retriever to fetch relevant information for follow-ups.
+
 ### 📜 Course Completion
 
 I successfully completed the **"Production-Ready Retrieval-Augmented Generation"** course by [DeepLearning.AI](https://www.deeplearning.ai/) on their GenAI learning path.
