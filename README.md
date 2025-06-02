@@ -15,7 +15,11 @@ I successfully completed the **"Production-Ready Retrieval-Augmented Generation"
 ---
 
 ### Demo
+The first question about Dan's major achievements was not answered correctly, as no context was provided.
+The second question, however, was answered well—it focused on what he did in college.
+The third question about React and Redux received a detailed and thorough response.
 
+https://github.com/user-attachments/assets/0352d37a-197b-4892-a329-7425e9b26d0d
 
 ## 📦 Setup
 
