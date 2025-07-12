@@ -4,6 +4,7 @@
 
 This project demonstrates production-level techniques using [LlamaIndex](https://github.com/jerryjliu/llama_index) with Deno and TypeScript. You'll learn how to persist data, interact via queries and chat, implement streaming responses, and deploy it as a web app—all while leveraging the `llamaindex` npm package.
 
+> This project was a part of a course by DeepLearning.ai, I've done this project in deeplearning.ai's environment and hence only the video based demo can be shown.
 ---
 
 ### 🧩 How RAG Works Here
